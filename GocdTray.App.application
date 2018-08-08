@@ -8,20 +8,20 @@
         <expiration maximumAge="0" unit="days" />
       </update>
     </subscription>
-    <deploymentProvider codebase="file://localhost/clickonce/gocdtray/GocdTray.App.application" />
+    <deploymentProvider codebase="https://raw.githubusercontent.com/matroberts/GocdTrayClickOnce/master/GocdTray.App.application" />
   </deployment>
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
     <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Application Files\GocdTray.App_1_0_11\GocdTray.App.exe.manifest" size="6853">
+    <dependentAssembly dependencyType="install" codebase="Application Files\GocdTray.App_1_0_12\GocdTray.App.exe.manifest" size="6858">
       <assemblyIdentity name="GocdTray.App.exe" version="1.0.0.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>1tFnRunSOq45LwKjHI4ia2JyQecvDyW4GqRRVRFKwzE=</dsig:DigestValue>
+        <dsig:DigestValue>a4BCeLrxnixKF37SH4tyYAQ2lsSulS6N1pzKbKQp2oo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
