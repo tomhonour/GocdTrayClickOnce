@@ -10,10 +10,12 @@ Because I don't have a code signing certificate you will be presented with a sca
 
 ![Windows Defender](Images/windows-defender.png?raw=true "Windows Defender")
 
-Click on the "More" link, then the "Run" button.
+Click on the "More info" link, then the "Run" button.
 
-You will now be presented with another slightly less scary warning "Application Install Security Warning"
+You will now be presented with another slightly less scary warning
 
 ![Application Install](Images/application-install.png?raw=true "Application Install")
 
-Click on "Install".  The application will install and should start, though windows defender may bug you again.
+Click on "Install".  
+
+The application will install and start, though windows defender may bug you again.
