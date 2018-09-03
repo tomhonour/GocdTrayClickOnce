@@ -19,3 +19,9 @@ You will now be presented with another slightly less scary warning
 Click on "Install".  
 
 The application will install and start, though windows defender may bug you again.
+
+## To get the icon to appear in the system tray all the time
+
+- Right click on Taskbar > Taskbar settings
+- Choose "Select which icons appear in the taskbar"
+- Switch on "GocdTray.App"
